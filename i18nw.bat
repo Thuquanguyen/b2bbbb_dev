@@ -1,0 +1,1 @@
+dart ./lib/scr/core/language/i18nw.dart

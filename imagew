@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+dart ./lib/utilities/image_helper/imagew.dart

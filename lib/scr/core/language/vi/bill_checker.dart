@@ -1,0 +1,15 @@
+const Map<String, String> billCheckerViVn = {
+  'bc_elec_approve_screen_title': 'Xác nhận thông tin',
+  'bc_elec_approve_payment_info': 'Thông tin thanh toán',
+  'bc_elec_customer_name': 'Tên khách hàng',
+  'bc_elec_customer_code': 'Mã khách hàng',
+  'bc_elec_customer_address': 'Địa chỉ',
+  'bc_elec_total_amount': 'Tổng tiền thanh toán',
+  'bc_elec_note': 'Nội dung',
+  'bc_elec_reject_reason': 'Lý do từ chối',
+  'bc_elec_period': 'Kỳ thanh toán',
+  'bc_elec_period_amount': 'Số tiền',
+  'bc_elec_period_type': 'Loại hóa đơn',
+  'bc_elec_period_code': 'Mã hóa đơn',
+  'bc_elec_provider': 'Nhà cung cấp điện',
+};

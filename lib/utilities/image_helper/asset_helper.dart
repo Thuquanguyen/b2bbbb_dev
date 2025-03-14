@@ -1,0 +1,1 @@
+part 'asset_helper.g.dart';

@@ -1,0 +1,54 @@
+{
+  "result": {
+    "code": "200",
+    "message_vi": "thành công",
+    "message_en": "success",
+    "app_ios_version": "1.0.0",
+    "app_android_version": "1.0.0",
+    "api_version": "1.0.0"
+  },
+  "data": [
+    {
+      "id": "user_0",
+      "full_name": "TRAN VAN HUY",
+      "bank_name": "Techcombank",
+      "account_number": "827838723843234"
+    },
+    {
+      "id": "user_1",
+      "full_name": "NGUYEN NGOC HOA",
+      "bank_name": "Vietcombank",
+      "account_number": "4563434"
+    },
+    {
+      "id": "user_2",
+      "full_name": "LE MINH TU",
+      "bank_name": "VPBank",
+      "account_number": "457333335"
+    },
+    {
+      "id": "user_3",
+      "full_name": "VUONG THI THUY",
+      "bank_name": "BIDV",
+      "account_number": "723843234"
+    },
+    {
+      "id": "user_4",
+      "full_name": "TRAN VAN HUY",
+      "bank_name": "Techcombank",
+      "account_number": "827838723843234"
+    },
+    {
+      "id": "user_5",
+      "full_name": "TRAN VAN HUY",
+      "bank_name": "Techcombank",
+      "account_number": "827838723843234"
+    },
+    {
+      "id": "user_6",
+      "full_name": "TRAN VAN HUY",
+      "bank_name": "Techcombank",
+      "account_number": "827838723843234"
+    }
+  ]
+}

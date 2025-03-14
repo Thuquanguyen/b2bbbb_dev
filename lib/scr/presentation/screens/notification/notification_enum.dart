@@ -1,0 +1,12 @@
+enum NotificationWidgetType {
+  DATE,
+  BALANCE_CHANGE,
+  PENDING_TRANSACTION,
+  PROMOTION
+}
+enum NotificationPageType {
+  ALL,
+  BALANCE_CHANGE,
+  PENDING_TRANSACTION,
+  PROMOTION
+}

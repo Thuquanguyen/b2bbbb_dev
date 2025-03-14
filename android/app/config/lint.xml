@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+
+    <!--Нет возможности задать пакет для проверяемой зависимости. Необходимо отключать проверку целиком.-->
+    <issue id="InvalidPackage">
+        <ignore path="*"/>
+    </issue>
+</lint>
